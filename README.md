@@ -20,3 +20,12 @@ https://colab.research.google.com/drive/1sul8kfGmzvvYriWTS4f7ml_EEQWWDsgb?usp=sh
 
 
 
+# STAND UP WITH NLP
+
+https://colab.research.google.com/drive/1nh73jnfihfxSVyeh5EiK0-CBFXHk0tLy?usp=sharing#scrollTo=KgyowL05iJE1
+https://colab.research.google.com/drive/1nh73jnfihfxSVyeh5EiK0-CBFXHk0tLy?usp=sharing#scrollTo=DcSkWlR9XsCi
+
+
+
+
+
