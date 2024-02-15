@@ -24,6 +24,7 @@ https://colab.research.google.com/drive/1sul8kfGmzvvYriWTS4f7ml_EEQWWDsgb?usp=sh
 
 https://colab.research.google.com/drive/1nh73jnfihfxSVyeh5EiK0-CBFXHk0tLy?usp=sharing#scrollTo=KgyowL05iJE1
 https://colab.research.google.com/drive/1nh73jnfihfxSVyeh5EiK0-CBFXHk0tLy?usp=sharing#scrollTo=DcSkWlR9XsCi
+https://www.canva.com/design/DAF7YUzPFDU/11NgjVnYPqF9LTQaH8eDUA/view
 
 
 
